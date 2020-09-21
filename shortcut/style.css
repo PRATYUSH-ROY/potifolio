@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    /*background-color: -webkit-linear-gradient(#B4F5B7, #F5B4B4);*/
+    background-color: blueviolet;
+}
+
+span {
+    text-align: center;
+    /*background-color: -webkit-linear-gradient(#B4F5B7, #F5B4B4);*/
+
+}
+
+h1 {
+    font-family: cursive;
+    font-size: 70px;
+    color: aqua;
+
+}
